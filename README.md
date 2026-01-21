@@ -1,1 +1,0 @@
-# lifecell_checker.py
